@@ -21,6 +21,11 @@ Lots of videos on character sculpting with some discussion of sculpting and anat
 - [Sculpting In Blender For Beginners - Tutorial](https://www.youtube.com/watch?v=IG1IEpU5VAw) - MEC
 - [3D Character Creation Walkthrough - Part 1 - Sculpting Tifa from Final Fantasy VII](https://www.youtube.com/watch?v=wOjPUiDIAG8&list=PLydnT8jiA21oJbSbH9hEA96jpPHjdGXo4&index=6) - MEC, THR
 
+### Other Resources
+
+#### Interesting Artstation Accounts
+- [Alex Pi](https://www.artstation.com/alex_pi) - Lots of very clever timelapse videos for composite and concept art work.
+
 ## Paid Resources
 ### Books
 #### [Anatomy for Sculptors](https://anatomy4sculptors.com/) ($45-$55) - THR
