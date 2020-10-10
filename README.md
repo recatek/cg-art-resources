@@ -26,6 +26,9 @@ Lots of videos on character sculpting with some discussion of sculpting and anat
 #### Interesting Artstation Accounts
 - [Alex Pi](https://www.artstation.com/alex_pi) - Lots of very clever timelapse videos for composite and concept art work.
 
+#### Reference Sources
+- https://human-proportions.tumblr.com/
+
 ## Paid Resources
 ### Books
 #### [Anatomy for Sculptors](https://anatomy4sculptors.com/) ($45-$55) - THR
