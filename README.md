@@ -23,7 +23,7 @@ Lots of videos on character sculpting with some discussion of sculpting and anat
 
 #### [Lukas Kutschera](https://www.youtube.com/channel/UChIOHon9KXDp3-S8uAEBdGQ)
 Has a great series on sculpting a realistic human with very specific anatomical detail. Uses ZBrush but theory carries over the practice in Blender.
-- https://www.youtube.com/watch?v=Wt9tlnoKihQ&list=PLZ_rNjaMm252knHErlfctIPWuJc78RPgX - MEC, THR
+- [Sculpting a realistic human in Zbrush Part 1: Torso Anatomy](https://www.youtube.com/watch?v=Wt9tlnoKihQ&list=PLZ_rNjaMm252knHErlfctIPWuJc78RPgX) - MEC, THR
 
 ### Other Resources
 
