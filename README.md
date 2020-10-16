@@ -29,10 +29,12 @@ Has a great series on sculpting a realistic human with very specific anatomical 
 
 #### Interesting Artstation Accounts
 - [Alex Pi](https://www.artstation.com/alex_pi) - Lots of very clever timelapse videos for composite and concept art work.
+- [Chao Dong](https://www.artstation.com/dongchao) - Some good anatomy sculpts to use as reference.
 
 #### Reference Sources
 - https://human-proportions.tumblr.com/ - THR
 - https://www.artyfactory.com/portraits/pencil-portraits/proportions-of-a-head.html - THR
+- https://anatomy360.info/anatomy-scan-reference-dump/ - THR
 
 ## Paid Resources
 ### Books
@@ -41,3 +43,6 @@ Very useful picture-book with demonstrations on how to break down human anatomy 
 ### Courses
 #### [CG Boost](https://cgboost.com/academy/) ($~60 per) - THR, MEC
 Handful of courses for Blender and other tools like Substance Painter. Haven't tried any yet but they come highly recommended.
+### References
+#### [3D Scan Store](https://www.3dscanstore.com/) (prices vary) - THR
+High resolution and detail scans, especially with their [écorché scans](https://www.3dscanstore.com/ecorche-3d-models/male-and-female-%C3%A9corch%C3%A9-bundle) with full anatomical detail.
