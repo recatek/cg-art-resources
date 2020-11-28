@@ -25,6 +25,9 @@ Lots of videos on character sculpting with some discussion of sculpting and anat
 Has a great series on sculpting a realistic human with very specific anatomical detail. Uses ZBrush but theory carries over the practice in Blender.
 - [Sculpting a realistic human in Zbrush Part 1: Torso Anatomy](https://www.youtube.com/watch?v=Wt9tlnoKihQ&list=PLZ_rNjaMm252knHErlfctIPWuJc78RPgX) - MEC, THR
 
+#### GDC Talks
+- [The Ultimate Trim: Texturing Techniques of Sunset Overdrive](https://www.gdcvault.com/play/1022324/The-Ultimate-Trim-Texturing-Techniques)
+
 ### Other Resources
 
 #### Interesting Artstation Accounts
